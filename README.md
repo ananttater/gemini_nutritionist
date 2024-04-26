@@ -1,6 +1,8 @@
 # Gemini Nutritionist
 Using Google Gemini Pro image model to analyse the food image and give a calories count and some good alternatives..
 
+Deployed Link: [Click hear](https://nourishgenius.streamlit.app/)
+
 ## Screentshots/ Output
 ![image](https://github.com/ananttater/gemini_nutritionist/assets/77228263/59d69303-0ea5-4bc6-a44e-a91cf8adbe19)
 
